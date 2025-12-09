@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 150 700 700" fill="none">
+  <circle cx="500" cy="500" r="300" stroke="black" stroke-width="10"/>
+  <circle cx="288" cy="712" r="25" fill="black"/>
+  <circle cx="500" cy="500" r="25" fill="black"/>
+  <circle cx="712" cy="288" r="25" fill="black"/>
+  <path d="M 288 712 Q 394 712 394 606 Q 394 500 500 500 Q 606 500 606 394 Q 606 288 712 288" stroke="black" stroke-width="10"/>
+  <path d="M 444 394 A 50 50 0 1 1 437 369 M 449 394 L 394 394" stroke="black" stroke-width="10" transform="translate(-10,-10)"/>
+  <path d="M 649 631 A 50 50 0 1 1 656 606 M 666 606 M 661 606 L 556 606" stroke="black" stroke-width="10" transform="translate(10,10)"/>
+</svg>

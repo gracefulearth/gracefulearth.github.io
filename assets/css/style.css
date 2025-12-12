@@ -14,11 +14,26 @@ header {
     text-align: center;
 }
 
-h3 {
+main {
+    max-width: 600px;
+    margin: 0 auto;
     margin-bottom: 50px;
 }
 
-h3 img {
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+p, li {
+    text-align: justify;
+}
+
+a {
+    color: rgb(94, 94, 94);
+}
+
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
     margin-right: 20px;
     vertical-align: middle;
 }
@@ -32,7 +47,6 @@ nav {
 }
 
 nav a {
-    color: rgb(94, 94, 94);
     display: block;
     text-decoration: none;
     padding-top: 5px;
